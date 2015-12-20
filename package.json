@@ -1,0 +1,23 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mduleone/EchoPokedex.git"
+  },
+  "author": "Matt DuLeone <matt@duleone.com> (http://matt.duleone.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mduleone/EchoPokedex/issues"
+  },
+  "homepage": "https://github.com/mduleone/EchoPokedex#readme"
+}
